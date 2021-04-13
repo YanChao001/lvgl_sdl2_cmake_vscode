@@ -1,0 +1,922 @@
+[
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl_demo.dir/includes_C.rsp -g -o CMakeFiles/lvgl_demo.dir/main.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/main.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/main.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl_demo.dir/includes_C.rsp -g -o CMakeFiles/lvgl_demo.dir/mouse_cursor_icon.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/mouse_cursor_icon.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/mouse_cursor_icon.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/img_cogwheel_alpha16.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_alpha16.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_alpha16.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/img_cogwheel_argb.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_argb.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_argb.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/img_cogwheel_chroma_keyed.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_chroma_keyed.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_chroma_keyed.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/img_cogwheel_indexed16.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_indexed16.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_indexed16.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/img_cogwheel_rgb.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_rgb.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_cogwheel_rgb.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/img_hand.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_hand.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/img_hand.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/lv_font_montserrat_12_compr_az.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/lv_font_montserrat_12_compr_az.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/lv_font_montserrat_12_compr_az.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/lv_font_montserrat_16_compr_az.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/lv_font_montserrat_16_compr_az.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/lv_font_montserrat_16_compr_az.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/assets/lv_font_montserrat_28_compr_az.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/lv_font_montserrat_28_compr_az.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/assets/lv_font_montserrat_28_compr_az.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_benchmark/lv_demo_benchmark.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_benchmark/lv_demo_benchmark.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_benchmark/lv_demo_benchmark.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_icon_bright.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_bright.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_bright.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_icon_eco.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_eco.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_eco.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_icon_hue.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_hue.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_hue.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_icon_pc.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_pc.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_pc.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_icon_tel.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_tel.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_tel.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_icon_wifi.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_wifi.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_icon_wifi.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_1.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_1.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_1.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_2.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_2.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_2.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_3.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_3.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_3.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_4.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_4.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_btn_bg_4.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_cloud.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_cloud.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_cloud.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_copy.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_copy.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_copy.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_internet.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_internet.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_internet.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_mobile.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_mobile.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_mobile.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_no_internet.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_no_internet.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_no_internet.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_phone.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_phone.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_phone.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_print.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_print.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_print.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_printer2.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_printer2.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_printer2.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_ready.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_ready.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_ready.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_scan.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_scan.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_scan.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_scan_example.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_scan_example.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_scan_example.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_setup.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_setup.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_setup.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_usb.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_usb.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_usb.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/images/lv_demo_printer_img_wave.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_wave.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/images/lv_demo_printer_img_wave.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/lv_demo_printer.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/lv_demo_printer.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/lv_demo_printer.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_printer/lv_demo_printer_theme.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/lv_demo_printer_theme.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_printer/lv_demo_printer_theme.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_stress/lv_demo_stress.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_stress/lv_demo_stress.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_stress/lv_demo_stress.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_demo_widgets/lv_demo_widgets.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_widgets/lv_demo_widgets.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_demo_widgets/lv_demo_widgets.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_get_started/lv_ex_get_started_1.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_get_started/lv_ex_get_started_1.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_get_started/lv_ex_get_started_1.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_get_started/lv_ex_get_started_2.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_get_started/lv_ex_get_started_2.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_get_started/lv_ex_get_started_2.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_get_started/lv_ex_get_started_3.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_get_started/lv_ex_get_started_3.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_get_started/lv_ex_get_started_3.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_1.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_1.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_1.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_10.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_10.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_10.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_11.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_11.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_11.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_2.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_2.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_2.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_3.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_3.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_3.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_4.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_4.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_4.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_5.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_5.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_5.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_6.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_6.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_6.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_7.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_7.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_7.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_8.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_8.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_8.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_examples",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_examples.dir/includes_C.rsp -g -o CMakeFiles/lv_examples.dir/src/lv_ex_style/lv_ex_style_9.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_9.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_examples/src/lv_ex_style/lv_ex_style_9.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/GC9A01.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/GC9A01.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/GC9A01.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/ILI9341.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/ILI9341.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/ILI9341.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/R61581.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/R61581.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/R61581.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/SHARP_MIP.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/SHARP_MIP.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/SSD1963.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/SSD1963.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/SSD1963.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/ST7565.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/ST7565.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/ST7565.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/UC1610.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/UC1610.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/UC1610.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/drm.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/drm.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/drm.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/fbdev.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/fbdev.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/fbdev.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/display/monitor.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/monitor.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/display/monitor.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/gtkdrv/gtkdrv.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/gtkdrv/gtkdrv.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/AD_touch.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/AD_touch.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/AD_touch.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/FT5406EE8.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/FT5406EE8.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/XPT2046.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/XPT2046.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/XPT2046.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/evdev.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/evdev.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/evdev.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/keyboard.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/keyboard.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/keyboard.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/libinput.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/libinput.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/libinput.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/mouse.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/mouse.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/mouse.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/indev/mousewheel.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/mousewheel.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/indev/mousewheel.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lv_drivers",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lv_drivers.dir/includes_C.rsp -g -o CMakeFiles/lv_drivers.dir/win_drv.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/win_drv.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lv_drivers/win_drv.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_core/lv_disp.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_disp.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_disp.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_core/lv_group.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_group.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_group.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_core/lv_indev.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_indev.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_indev.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_core/lv_obj.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_obj.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_obj.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_core/lv_refr.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_refr.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_refr.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_core/lv_style.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_style.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_core/lv_style.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_arc.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_arc.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_arc.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_blend.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_blend.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_blend.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_img.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_img.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_img.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_label.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_label.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_label.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_line.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_line.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_line.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_mask.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_mask.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_mask.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_rect.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_rect.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_rect.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_draw_triangle.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_triangle.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_draw_triangle.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_img_buf.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_img_buf.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_img_buf.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_img_cache.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_img_cache.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_img_cache.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_draw/lv_img_decoder.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_img_decoder.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_draw/lv_img_decoder.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_dejavu_16_persian_hebrew.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_dejavu_16_persian_hebrew.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_dejavu_16_persian_hebrew.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_fmt_txt.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_fmt_txt.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_fmt_txt.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_loader.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_loader.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_loader.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_10.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_10.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_10.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_12.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_12.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_12.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_12_subpx.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_12_subpx.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_12_subpx.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_14.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_14.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_14.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_16.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_16.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_16.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_18.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_18.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_18.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_20.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_20.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_20.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_22.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_22.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_22.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_24.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_24.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_24.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_26.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_26.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_26.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_28.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_28.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_28.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_28_compressed.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_28_compressed.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_28_compressed.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_30.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_30.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_30.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_32.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_32.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_32.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_34.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_34.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_34.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_36.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_36.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_36.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_38.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_38.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_38.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_40.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_40.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_40.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_42.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_42.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_42.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_44.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_44.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_44.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_46.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_46.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_46.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_48.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_48.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_48.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_montserrat_8.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_8.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_montserrat_8.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_simsun_16_cjk.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_simsun_16_cjk.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_simsun_16_cjk.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_font/lv_font_unscii_8.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_unscii_8.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_font/lv_font_unscii_8.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_gpu/lv_gpu_nxp_pxp.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_nxp_pxp.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_nxp_pxp.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_gpu/lv_gpu_nxp_pxp_osa.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_nxp_pxp_osa.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_nxp_pxp_osa.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_gpu/lv_gpu_nxp_vglite.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_nxp_vglite.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_nxp_vglite.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_gpu/lv_gpu_stm32_dma2d.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_stm32_dma2d.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_gpu/lv_gpu_stm32_dma2d.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_hal/lv_hal_disp.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_hal/lv_hal_disp.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_hal/lv_hal_disp.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_hal/lv_hal_indev.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_hal/lv_hal_indev.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_hal/lv_hal_indev.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_hal/lv_hal_tick.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_hal/lv_hal_tick.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_hal/lv_hal_tick.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_anim.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_anim.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_anim.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_area.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_area.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_area.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_async.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_async.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_async.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_bidi.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_bidi.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_bidi.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_color.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_color.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_color.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_debug.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_debug.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_debug.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_fs.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_fs.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_fs.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_gc.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_gc.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_gc.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_ll.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_ll.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_ll.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_log.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_log.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_log.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_math.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_math.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_math.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_mem.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_mem.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_mem.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_printf.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_printf.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_printf.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_task.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_task.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_task.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_templ.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_templ.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_templ.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_txt.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_txt.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_txt.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_txt_ap.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_txt_ap.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_txt_ap.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_misc/lv_utils.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_utils.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_misc/lv_utils.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_themes/lv_theme.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_themes/lv_theme_empty.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_empty.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_empty.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_themes/lv_theme_material.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_material.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_material.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_themes/lv_theme_mono.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_mono.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_mono.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_themes/lv_theme_template.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_template.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_themes/lv_theme_template.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_arc.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_arc.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_arc.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_bar.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_bar.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_bar.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_btn.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_btn.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_btn.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_btnmatrix.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_btnmatrix.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_btnmatrix.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_calendar.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_calendar.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_calendar.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_canvas.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_canvas.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_canvas.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_chart.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_chart.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_chart.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_checkbox.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_checkbox.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_checkbox.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_cont.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_cont.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_cont.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_cpicker.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_cpicker.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_cpicker.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_dropdown.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_dropdown.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_dropdown.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_gauge.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_gauge.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_gauge.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_img.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_img.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_img.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_imgbtn.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_imgbtn.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_imgbtn.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_keyboard.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_keyboard.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_keyboard.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_label.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_label.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_label.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_led.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_led.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_led.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_line.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_line.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_line.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_linemeter.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_linemeter.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_linemeter.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_list.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_list.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_list.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_msgbox.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_msgbox.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_msgbox.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_objmask.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_objmask.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_objmask.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_objx_templ.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_objx_templ.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_objx_templ.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_page.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_page.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_page.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_roller.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_roller.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_roller.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_slider.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_slider.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_slider.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_spinbox.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_spinbox.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_spinbox.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_spinner.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_spinner.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_spinner.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_switch.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_switch.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_switch.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_table.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_table.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_table.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_tabview.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_tabview.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_tabview.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_textarea.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_textarea.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_textarea.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_tileview.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_tileview.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_tileview.c"
+},
+{
+  "directory": "C:/Users/YanChao/Desktop/lvgl_SDL2/build/lib/lvgl/lvgl",
+  "command": "\"D:/Program File/gcc/bin/gcc.exe\"  @CMakeFiles/lvgl.dir/includes_C.rsp -g -o CMakeFiles/lvgl.dir/src/lv_widgets/lv_win.c.obj -c C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_win.c",
+  "file": "C:/Users/YanChao/Desktop/lvgl_SDL2/lib/lvgl/lvgl/src/lv_widgets/lv_win.c"
+}
+]

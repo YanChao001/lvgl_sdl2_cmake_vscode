@@ -1,0 +1,1 @@
+ lib/lvgl/lv_examples/liblv_examples.a lib/lvgl/lv_drivers/liblv_drivers.a lib/lvgl/lvgl/liblvgl.a ../lib/SDL2/SDL2-2.0.10/lib/x64/SDL2main.lib ../lib/SDL2/SDL2-2.0.10/lib/x64/SDL2.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

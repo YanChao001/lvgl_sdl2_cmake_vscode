@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lv_cont.h": "c",
+        "lv_examples.h": "c"
+    }
+}
